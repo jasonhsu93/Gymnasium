@@ -31,6 +31,7 @@ except ImportError as e:
 
 
 
+
 STATE_W = 96  # less than Atari 160x192
 STATE_H = 96
 VIDEO_W = 600
